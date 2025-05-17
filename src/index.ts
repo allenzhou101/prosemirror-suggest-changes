@@ -22,4 +22,4 @@ export {
   isSuggestChangesEnabled,
 } from "./plugin.js";
 
-export { withSuggestChanges } from "./withSuggestChanges.js";
+export { withSuggestChanges, transformToSuggestionTransaction } from "./withSuggestChanges.js";
